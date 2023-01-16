@@ -12,7 +12,7 @@ function Cards() {
     <div className='last-2'>
          <h1>Explore our foods.</h1>
       <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, pariatur! consectetur adipisicing elit. Quia
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, pariatur! consectetur adipisicing elit. QuiaLorem ipa, pariatur! consectetur adipisicing elit. Quia</span>
+      </span>
     
     </div>
 
