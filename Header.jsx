@@ -81,7 +81,7 @@ const Headertop = () => {
       </Col>
       
       <Col lg={7} className='header_top2 '>
-      <img className='img-sec2' src="/images/02.jpg" alt=""/>
+      <img className='img-sec2' src="/images/02.jpg" alt="img"/>
       </Col>
       </Row>
       </Container>
@@ -142,4 +142,3 @@ const Headertop = () => {
 }
 
 export default Headertop
- 
