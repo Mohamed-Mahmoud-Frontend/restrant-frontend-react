@@ -1,0 +1,17 @@
+Form{
+overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 150px;
+   
+}
+Form h3{
+    text-align: center;
+    margin-top:20px ;
+    font-size: 34px;
+    color: #a03737;
+    text-decoration: double;
+        text-transform: uppercase;
+        padding: 15px;
+} 
