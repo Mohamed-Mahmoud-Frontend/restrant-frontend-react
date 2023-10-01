@@ -70,6 +70,13 @@ width: 100%;
     justify-content: space-between;
     margin: 15px 10px;
 }
+.height-componet_parent {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #9b1b1be1;
+    color: #fff;
+}
 .height-comp_parent h1 {
 margin:  auto 25px;
 
@@ -144,22 +151,20 @@ text-align: center;
 .last-2 h1 {
     color: #a03737;
 text-align: center;
-margin-left: 120px;
 margin-top: 50px;
-
+font-family: sans-serif;
 }
 .last-2 span {
     color: #333;
 text-align: center;
-margin-left:140px ;
 margin-bottom: 30px;
 }
 .cards{
-    flex-direction:row;
+    flex-direction: row;
     display: flex;
 flex-wrap: wrap;
    align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 
 }
 
@@ -174,12 +179,12 @@ flex-wrap: wrap;
        margin-top:35px  ;
     }
     .card-item{
-        margin: 15px;
+        margin: 5px ;
     }
 
 }
 .card-item{
-    margin-top: 60px;
+    margin-top: 40px;
 }
 .cards h5 {
     font-size: 20px;
